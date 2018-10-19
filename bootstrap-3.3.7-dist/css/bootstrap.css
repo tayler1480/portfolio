@@ -50,6 +50,7 @@ a:hover {
   outline: 0;
 }
 abbr[title] {
+  text-align: center;
   border-bottom: 1px dotted;
 }
 b,
