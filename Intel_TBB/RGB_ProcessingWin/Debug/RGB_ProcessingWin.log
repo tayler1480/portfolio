@@ -1,0 +1,29 @@
+﻿  main.cpp
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(124): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(130): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(237): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(239): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(245): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(340): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(342): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(355): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(357): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(368): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(370): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(377): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(379): warning C4018: '<' : signed/unsigned mismatch
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(416): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(418): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(419): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(420): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(423): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(425): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(426): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(427): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(432): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(434): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(435): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(436): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+e:\github\portfoliobootstrap\intel_tbb\rgb_processingwin\main.cpp(441): warning C4244: 'argument' : conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  RGB_ProcessingWin.vcxproj -> E:\Github\portfoliobootstrap\Intel_TBB\RGB_ProcessingWin\Debug\RGB_ProcessingWin.exe
